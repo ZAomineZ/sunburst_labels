@@ -1,0 +1,12 @@
+#chart {
+    position: relative;
+}
+
+#labels_chart {
+    padding: 10px 0 0 3px;
+}
+
+#labels_chart text {
+    font-weight: 600;
+    fill: #ffffff;
+}
